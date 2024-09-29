@@ -1,4 +1,4 @@
-# Tic-Tac-Toe with Mini-Max Algorithm
+# Tic-Tac-Toe made using Mini-Max Algorithm
 # Author: [Jaivansh Chawla]
 
 def display_board(state):

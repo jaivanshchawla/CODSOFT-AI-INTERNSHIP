@@ -1,4 +1,4 @@
-# CODSOFT-AI-INTERNSHIP
+# CODSOFT-ARTIFICIAL-INTELLIGENCE-INTERNSHIP
 # Aries A.I Chatbot
 
 ## Task 1: Chatbot Implementation

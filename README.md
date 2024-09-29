@@ -33,3 +33,26 @@ Jaivansh Chawla
 
 ## Acknowledgments:
 Thanks to everyone who contributed to the development of this project.
+# Facial Recognition Application
+## Author: Jaivansh Chawla
+
+### Description
+This project implements a real-time facial recognition application using OpenCV. The application captures video from the webcam and detects faces in the live feed using a pre-trained Haar Cascade classifier.
+
+### Features
+- Real-time face detection from webcam feed
+- Draws rectangles around detected faces
+- Full-screen display of the live video feed
+
+### Usage
+1. Ensure you have the required libraries installed (`opencv-python`).
+2. Update the path to the Haar Cascade classifier in the code.
+3. Run the script to start the facial recognition application.
+4. Press 'a' to exit the application.
+
+### Requirements
+- Python 3.x
+- OpenCV library
+
+### Acknowledgments
+Thanks to the OpenCV community for their resources and documentation that made this project possible.

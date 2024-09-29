@@ -15,3 +15,21 @@ Jaivansh Chawla
 
 ## Acknowledgments:
 Thanks to Codsoft Team for the valuable opportunity during the Codsoft AI Internship.
+
+# Tic-Tac-Toe with Mini-Max Algorithm
+
+## Task: Game Implementation
+**Description:** This project implements a Tic-Tac-Toe game where the player competes against a computer opponent. The computer uses the Mini-Max algorithm to make optimal moves, ensuring challenging gameplay. The player can choose to play first or second, and the game will display the current board state after each move.
+
+## Usage:
+1. Run the Python script.
+2. Choose whether you want to play first or second.
+3. Enter your move by specifying a position from 1 to 9.
+4. The computer will make its move automatically.
+5. The game will continue until there is a winner or a draw.
+
+## Author:
+Jaivansh Chawla
+
+## Acknowledgments:
+Thanks to everyone who contributed to the development of this project.

@@ -34,7 +34,6 @@ Jaivansh Chawla
 ## Acknowledgments:
 Thanks to everyone who contributed to the development of this project.
 # Facial Recognition Application
-## Author: Jaivansh Chawla
 
 ### Description
 This project implements a real-time facial recognition application using OpenCV. The application captures video from the webcam and detects faces in the live feed using a pre-trained Haar Cascade classifier.
@@ -54,5 +53,9 @@ This project implements a real-time facial recognition application using OpenCV.
 - Python 3.x
 - OpenCV library
 
+## Author:
+Jaivansh Chawla
+
 ### Acknowledgments
 Thanks to the OpenCV community for their resources and documentation that made this project possible.
+

@@ -1,7 +1,8 @@
 import cv2
 
 # Load the pre-trained Haar Cascade classifier for face detection
-face_cap = cv2.CascadeClassifier("C:/Users/Jaivansh Chawla/AppData/Local/Programs/Python/Python312/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml")
+# Ensure you have the 'haarcascade_frontalface_default.xml' file in the same directory as this script.
+face_cap = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 
 # Use the webcam for live video feed
 video_cap = cv2.VideoCapture(0)
